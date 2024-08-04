@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a data engineer specializing in geospatial applications. I have fluency in R, Python, SQL, and git, and have used these in both an AWS and Azure cloud environment. I am interested in developing automated data pipelines and in spatial data science.
+I am a data engineer with a background in geospatial data science. I have fluency in Python, R, and SQL, and develop data solutions in both AWS and Azure. I am primarily interested in DevOps, automating data pipelines, and spatial statistics
