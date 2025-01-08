@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a data engineer with a background in geospatial data science. I have fluency in Python, R, and SQL, and develop data solutions in both AWS and Azure. I am primarily interested in DevOps, automating data pipelines, and spatial statistics.
+I am a data engineer with a background in geospatial data science. I have fluency in Python, R, and SQL, and develop data solutions in AWS, Azure, and GCP. I am primarily interested in DevOps, automating data pipelines, and spatial statistics.
