@@ -19,4 +19,4 @@ I am a data engineer with a background in geospatial data science. I have fluenc
 
 Currently a Senior Data Engineer at [Trinnex](https://www.trinnex.io/).
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=freygeospatial&hide=javascript,html,css,scss,tex,ts,php,jupyter%20notebook,rich%20text%20format&langs_count=5&theme=transparent&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=freygeospatial&hide=javascript,html,css,scss,tex,ts,php,jupyter%20notebook,rich%20text%20format&langs_count=6&theme=transparent&layout=compact)
