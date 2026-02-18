@@ -4,7 +4,7 @@
 **FreyGeospatial/freygeospatial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm a software engineer with a background in geospatial data science and a strong advocate for event-driven, microservice architectures. I develop data-centric and production-ready applications with Python, GoLang, R, and SQL for all cloud environments. I'm primarily interested in DevOps, automating data pipelines, and spatial statistics. 
+I'm a software engineer with a background in geospatial data science and a strong advocate for event-driven, microservice architectures. I develop data-centric and production-ready applications with Python, GoLang, R, and SQL for all cloud environments. I'm primarily interested in DevOps, automating data pipelines, and backend development. 
 
 ⛏️ I’m working on developing extensible, testable, scalable, and fault-tolerant data pipelines ⚡️👨🏻‍💻
  
