@@ -9,8 +9,6 @@ I'm a software engineer with a background in geospatial data science and a stron
 ⛏️ I’m working on developing extensible, testable, scalable, and fault-tolerant data pipelines ⚡️👨🏻‍💻
  
 🌱 I’m currently learning [TypeScript](https://www.typescriptlang.org)
- 
-💬 Ask me about [the integration of Trinnex's leadCAST Predict tool with Esri ArcGIS](https://www.trinnex.io/news/leadcast-predict-integration-with-esri-gis) 🗺️ 🌎
 
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=FreyGeospatial&layout=donut&hide=javascript,html,css,scss,tex,ts,php,jupyter%20notebook,rich%20text%20format&langs_count=6&theme=transparent)](https://github.com/Pranesh-2005/github-readme-stats)
 
